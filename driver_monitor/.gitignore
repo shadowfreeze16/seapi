@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Models are downloaded, not committed
+models/*.onnx
+
+# Runtime output
+events/*.jpg
+events/*.csv
+events/session_*.json
+calibration.json
+phone_camera.json
+*.avi
+*.mp4
+
+# Local test output
+.pytest_cache/
+.coverage

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1795535116409,
+    "vehicle_id": "VEH-001",
+    "driver": "Driver 01",
+    "level": "GREEN",
+    "message": "Driver active and safe",
+    "timestamp": "",
+    "image": null,
+    "received_at": "2026-11-24 21:15:16"
+  },
+  {
+    "id": 1795535116439,
+    "vehicle_id": "VEH-001",
+    "driver": "Driver 01",
+    "level": "YELLOW",
+    "message": "Eyes closed - stay alert",
+    "timestamp": "",
+    "image": null,
+    "received_at": "2026-11-24 21:15:16"
+  },
+  {
+    "id": 1795535116447,
+    "vehicle_id": "VEH-001",
+    "driver": "Driver 01",
+    "level": "RED",
+    "message": "Eyes closed over 2 seconds - possible microsleep",
+    "timestamp": "",
+    "image": null,
+    "received_at": "2026-11-24 21:15:16"
+  },
+  {
+    "id": 1795535123611,
+    "vehicle_id": "VEH-001",
+    "driver": "Driver 01",
+    "level": "GREEN",
+    "message": "Driver active and safe",
+    "timestamp": "2026-11-24 21:15:23",
+    "image": null,
+    "received_at": "2026-11-24 21:15:23"
+  },
+  {
+    "id": 1795535123612,
+    "vehicle_id": "VEH-001",
+    "driver": "Driver 01",
+    "level": "YELLOW",
+    "message": "Eyes closed - stay alert",
+    "timestamp": "2026-11-24 21:15:23",
+    "image": null,
+    "received_at": "2026-11-24 21:15:23"
+  },
+  {
+    "id": 1795535123614,
+    "vehicle_id": "VEH-001",
+    "driver": "Driver 01",
+    "level": "RED",
+    "message": "Eyes closed over 2 seconds - possible microsleep",
+    "timestamp": "2026-11-24 21:15:23",
+    "image": null,
+    "received_at": "2026-11-24 21:15:23"
+  }
+]

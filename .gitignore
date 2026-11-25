@@ -1,0 +1,39 @@
+# Environments & Packages
+venv/
+**/venv/
+.venv/
+**/.venv/
+env/
+**/env/
+*.egg-info/
+
+# Python bytecode & cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+
+# Fleet & DMS Runtime Output & Personal Snapshots
+**/snapshots/*.jpg
+**/snapshots/*.png
+!**/snapshots/.gitkeep
+**/events/*.jpg
+**/events/*.csv
+**/events/session_*.json
+!**/events/.gitkeep
+**/alerts/*.jpg
+*.avi
+*.mp4
+*.log
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Calibration & Local runtime config overrides (optional)
+**/calibration.json
+**/phone_camera.json

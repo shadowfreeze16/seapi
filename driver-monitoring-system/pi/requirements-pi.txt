@@ -1,0 +1,11 @@
+# Pi 4 Model B - Driver Monitoring System
+# python3 -m pip install -r requirements-pi.txt
+# sudo apt install -y espeak
+opencv-python-headless==4.8.1.78
+opencv-contrib-python-headless==4.8.1.78
+numpy
+requests
+mediapipe
+pyttsx3
+# mediapipe is used for eye/mouth landmarks (EAR/MAR). If it is too heavy,
+# detector falls back to Haar eye detection. Do NOT install dlib on Pi 4.
